@@ -1,0 +1,21 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: grey;
+}
+
+#logo{
+    color:palevioletred;
+    font-size: 40px;
+    font-weight: 900;
+}
+#left-side{
+ padding-left: 59px;
+}
+#left-side {
+    color : "black";
+    font-size: 20px;
+}
+#left-side :hover{
+    color: palevioletred;
+}
